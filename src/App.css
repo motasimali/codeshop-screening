@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.select {
+  height: 32px;
+  border-radius: 6px;
+  margin: 5px;
+  width: 40px;
+}
+
+.button {
+  height: 32px;
+  border-radius: 6px;
+  margin: 5px;
+}
+.input {
+  height: 32px;
+  border-radius: 6px;
+  margin: 5px;
+}
